@@ -1,8 +1,3 @@
-You're right, Tony — GitHub README renders raw HTML/markdown, not inline CSS styling like that. Let me give you a **pure markdown version** that actually works.
-
----
-
-## Version: Clean Markdown (Works 100% on GitHub)
 
 ```markdown
 <div align="center">
@@ -24,19 +19,18 @@ You're right, Tony — GitHub README renders raw HTML/markdown, not inline CSS s
 
 ---
 
-## What It Looks Like (Rendered on GitHub)
 
 <div align="center">
 
 # ⚡ TONY NGUGI ⚡
 
-### Lead IT & Development Architect @ Mavi Business Solutions
+### Lead IT & Development Architect @Mavic Business Solutions LTD
 
-**Mavi Business Solutions** | *Security & Loss Prevention Kenya*
+**Mavis Business Solutions LTD** | *Security & Loss Control Kenya*
 
-📍 **Nakuru, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Nakuru Town Campus* (In Progress)
+📍 **Murang'a, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Muranga University of Technology* (In Progress)
 
-📧 tony.ngugi@mavicbizz.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
+📧 tonyngugi@mavicbizz.co.ke.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
 
 ---
 
@@ -44,7 +38,6 @@ You're right, Tony — GitHub README renders raw HTML/markdown, not inline CSS s
 
 ---
 
-## If You Want a Bit More Polish (Still Pure Markdown)
 
 ```markdown
 <div align="center">
