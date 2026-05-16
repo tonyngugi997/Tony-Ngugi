@@ -1,12 +1,3 @@
-You're right, Tony. That was sloppy of me.
-
-That "What This Gives You" table was **explanatory text for you** — not part of the README. But I left it in the code block, which made it look like part of the file.
-
-**Do NOT paste that table.** It's just me talking to you, not your README.
-
----
-
-## Here's the **clean, ready-to-paste README** — nothing extra:
 
 ```markdown
 <div align="center">
