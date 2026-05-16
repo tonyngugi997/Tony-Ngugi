@@ -1,86 +1,109 @@
+You're right, Tony — GitHub README renders raw HTML/markdown, not inline CSS styling like that. Let me give you a **pure markdown version** that actually works.
 
+---
+
+## Version: Clean Markdown (Works 100% on GitHub)
 
 ```markdown
-
 <div align="center">
 
-<!-- IDENTITY CARD -->
-<table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="middle" style="padding: 20px 30px; background: linear-gradient(135deg, #0a0a1a 0%, #1a1a3a 100%); border-radius: 20px; border: 1px solid #6C63FF;">
-      
-      <table border="0" width="100%" style="margin: 0 auto;">
-        <!-- Name & Title Row -->
-        <tr>
-          <td align="center">
-            <span style="font-size: 28px; font-weight: bold; color: #6C63FF;">TONY NGUGI</span>
-            <span style="font-size: 18px; color: #00BFA6; margin-left: 15px;">⚡ Lead IT & Development Architect</span>
-          </td>
-        </tr>
-        
-        <!-- Company Row -->
-        <tr>
-          <td align="center" style="padding-top: 8px;">
-            <span style="font-size: 14px; color: #ffffff; background: rgba(108,99,255,0.2); padding: 4px 12px; border-radius: 20px;">
-              Mavi Business Solutions (Security & Loss Prevention Kenya)
-            </span>
-          </td>
-        </tr>
-        
-        <!-- Divider -->
-        <tr><td style="height: 15px;"></td></tr>
-        <tr><td align="center"><span style="color: #6C63FF;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span></td></tr>
-        <tr><td style="height: 15px;"></td></tr>
-        
-        <!-- Details Row 1 -->
-        <tr>
-          <td align="center">
-            <span style="color: #00BFA6;">📍</span> <span style="color: #cccccc;">Nakuru, Kenya</span>
-            <span style="color: #6C63FF; margin: 0 10px;">◆</span>
-            <span style="color: #00BFA6;">🎓</span> <span style="color: #cccccc;">Information Technology — Nakuru Town Campus</span>
-            <span style="color: #6C63FF; margin: 0 10px;">◆</span>
-            <span style="color: #FF6B6B;">⏳</span> <span style="color: #cccccc;">In Progress</span>
-          </td>
-        </tr>
-        
-        <!-- Divider -->
-        <tr><td style="height: 15px;"></td></tr>
-        <tr><td align="center"><span style="color: #6C63FF;">─────────────────────────────────────────────────────────</span></td></tr>
-        <tr><td style="height: 10px;"></td></tr>
-        
-        <!-- Contact Row -->
-        <tr>
-          <td align="center">
-            <table border="0" align="center" style="margin: 0 auto;">
-              <tr>
-                <td style="padding: 0 15px;"><span style="color: #00BFA6;">📧</span> <a href="mailto:tony.ngugi@mavicbizz.co.ke" style="color: #6C63FF; text-decoration: none;">tony.ngugi@mavicbizz.co.ke</a></td>
-                <td style="padding: 0 15px;"><span style="color: #00BFA6;">🌐</span> <a href="https://mavicbizz.co.ke" style="color: #6C63FF; text-decoration: none;">mavicbizz.co.ke</a></td>
-                <td style="padding: 0 15px;"><span style="color: #00BFA6;">🐙</span> <a href="https://github.com/tonyngugi997" style="color: #6C63FF; text-decoration: none;">github.com/tonyngugi997</a></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        
-      </table>
-      
-    </td>
-  </tr>
-</table>
+# ⚡ TONY NGUGI ⚡
 
-</div>
-
-<br/>
-<div align="center">
-
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00BFA6&height=200&section=header&text=Tony%20Ngugi&fontSize=60&fontColor=white&animation=fadeIn)
-
-# ⚡ TONY NGUGI | KenyanCyber⚡
-
-### Lead IT & Development Architect
+### Lead IT & Development Architect @ Mavi Business Solutions
 
 **Mavi Business Solutions** | *Security & Loss Prevention Kenya*
 
-📍 Nakuru, Kenya
+📍 **Nakuru, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Nakuru Town Campus* (In Progress)
+
+📧 tony.ngugi@mavicbizz.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
+
+---
+
+</div>
+```
+
+---
+
+## What It Looks Like (Rendered on GitHub)
+
+<div align="center">
+
+# ⚡ TONY NGUGI ⚡
+
+### Lead IT & Development Architect @ Mavi Business Solutions
+
+**Mavi Business Solutions** | *Security & Loss Prevention Kenya*
+
+📍 **Nakuru, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Nakuru Town Campus* (In Progress)
+
+📧 tony.ngugi@mavicbizz.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
+
+---
+
+</div>
+
+---
+
+## If You Want a Bit More Polish (Still Pure Markdown)
+
+```markdown
+<div align="center">
+
+| | |
+|---|---|
+| **Name** | Tony Ngugi |
+| **Title** | Lead IT & Development Architect |
+| **Company** | Mavi Business Solutions (Security & Loss Prevention Kenya) |
+| **Location** | Nakuru, Kenya |
+| **Education** | Information Technology — Nakuru Town Campus (In Progress) |
+| **Email** | [tony.ngugi@mavicbizz.co.ke](mailto:tony.ngugi@mavicbizz.co.ke) |
+| **Website** | [mavicbizz.co.ke](https://mavicbizz.co.ke) |
+| **GitHub** | [github.com/tonyngugi997](https://github.com/tonyngugi997) |
+
+</div>
+
+---
+```
+
+---
+
+## What This Gives You
+
+| Element | Why |
+|---------|-----|
+| `# ⚡ TONY NGUGI ⚡` | Big, bold name — instantly recognizable |
+| `### Lead IT & Development Architect` | Clear job title (SEO gold) |
+| `**Mavi Business Solutions**` | Company name linked to your authority |
+| `📍 Nakuru, Kenya` | Local SEO — people search "IT lead Nakuru" |
+| `🎓 Information Technology — Nakuru Town Campus (In Progress)` | Honest, shows you're actively learning |
+| `📧 🌐 🐙` | Contact methods — email, website, GitHub |
+
+---
+
+## Your Complete README (With This Section at the Top)
+
+Here's your **full README** — just copy and paste into `tonyngugi997/tonyngugi997/README.md`:
+
+```markdown
+<div align="center">
+
+# ⚡ TONY NGUGI ⚡
+
+### Lead IT & Development Architect @ Mavi Business Solutions
+
+**Mavi Business Solutions** | *Security & Loss Prevention Kenya*
+
+📍 **Nakuru, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Nakuru Town Campus* (In Progress)
+
+📧 tony.ngugi@mavicbizz.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
+
+---
+
+</div>
+
+<div align="center">
+
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00BFA6&height=200&section=header&text=Tony%20Ngugi&fontSize=60&fontColor=white&animation=fadeIn)
 
 </div>
 
@@ -146,9 +169,9 @@ $ whoami
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| *[Link to your e‑commerce store 1]* | Full e‑commerce platform with inventory, payments, and order management | 🔴 LIVE |
-| *[Link to your e‑commerce store 2]* | Multi‑vendor marketplace with real‑time analytics | 🔴 LIVE |
-| *[Link to your e‑commerce store 3]* | Custom e‑commerce solution with AI recommendations | 🔴 LIVE |
+| *[Your Store 1 URL]* | Full e‑commerce platform with inventory, payments, and order management | 🔴 LIVE |
+| *[Your Store 2 URL]* | Multi‑vendor marketplace with real‑time analytics | 🔴 LIVE |
+| *[Your Store 3 URL]* | Custom e‑commerce solution with AI recommendations | 🔴 LIVE |
 
 > 📌 *Replace the placeholder links above with your actual live e‑commerce URLs*
 
@@ -226,12 +249,10 @@ Git        ████████████████████   3.2K+ 
 
 ## 🏆 Recent Activity
 
-<!-- RECENT_ACTIVITY:start -->
 - 🔀 Merged PR [#1](https://github.com/tonyngugi997/BotMa/pull/1) — refactor: remove fallback logic, AI only with placeholder
 - 🚀 Pushed 20+ commits to `BotMa` (April 13-14) — AI integration, multi-account support, security hardening
 - ⚡ Updated `Weaponize` — Neovim config improvements, better LSP support
 - 🐚 Enhanced `Professional Shell` — job control, redirection, rich dashboard
-<!-- RECENT_ACTIVITY:end -->
 
 ---
 
@@ -292,15 +313,18 @@ For IT consulting, systems development, or technical partnerships:
 
 ---
 
-## What You Need to Do After Pasting This
+## One More Thing — The Two-Way Link
 
-| Step | Action |
-|------|--------|
-| 1 | Replace the three e‑commerce placeholder links with your actual live store URLs |
-| 2 | Commit this as `README.md` in your `tonyngugi997/tonyngugi997` repository |
-| 3 | Go to your GitHub profile settings → Add your website URL (mavicbizz.co.ke) |
-| 4 | Go to your company website → Add a link to `https://github.com/tonyngugi997` somewhere (footer, contact page, or team page) |
+After you commit this README:
 
-That's it. After that, Google connects the dots: **you** → **Mavi Business Solutions** → **29 repos** → **live e‑commerce** → **AI systems** → **dev tools**.
+1. **Add your website to GitHub profile settings** → Profile → "Website" field → `https://mavicbizz.co.ke`
 
-Want me to help you add that **two-way link** to your company website? Send me the HTML file or tell me what page you can edit.
+2. **Add a link from your company website to your GitHub** — even just a single line in the footer:
+
+```html
+<a href="https://github.com/tonyngugi997">Our IT Lead on GitHub →</a>
+```
+
+That's it. That's the SEO cheat code. No hidden divs. No tricks. Just two links pointing at each other.
+
+Want me to help you craft that footer link for your company site? Send me the HTML.
