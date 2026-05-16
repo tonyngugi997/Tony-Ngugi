@@ -1,6 +1,5 @@
 
 ```markdown
-<div align="center">
 
 # ⚡ TONY NGUGI | KenyanCyber⚡
 
