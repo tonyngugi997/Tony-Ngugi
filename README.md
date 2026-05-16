@@ -1,94 +1,25 @@
+You're right, Tony. That was sloppy of me.
+
+That "What This Gives You" table was **explanatory text for you** — not part of the README. But I left it in the code block, which made it look like part of the file.
+
+**Do NOT paste that table.** It's just me talking to you, not your README.
+
+---
+
+## Here's the **clean, ready-to-paste README** — nothing extra:
 
 ```markdown
 <div align="center">
 
-# ⚡ TONY NGUGI ⚡
+# ⚡ TONY NGUGI | KenyanCyber⚡
 
-### Lead IT & Development Architect @ Mavi Business Solutions
+### Lead IT & Development Architect @ Mavic Business Solutions LTD
 
-**Mavi Business Solutions** | *Security & Loss Prevention Kenya*
-
-📍 **Nakuru, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Nakuru Town Campus* (In Progress)
-
-📧 tony.ngugi@mavicbizz.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
-
----
-
-</div>
-```
-
----
-
-
-<div align="center">
-
-# ⚡ TONY NGUGI ⚡
-
-### Lead IT & Development Architect @Mavic Business Solutions LTD
-
-**Mavis Business Solutions LTD** | *Security & Loss Control Kenya*
+**Mavic Business Solutions LTD** | *Security & Loss Control company, Kenya*
 
 📍 **Murang'a, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Muranga University of Technology* (In Progress)
 
-📧 tonyngugi@mavicbizz.co.ke.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
-
----
-
-</div>
-
----
-
-
-```markdown
-<div align="center">
-
-| | |
-|---|---|
-| **Name** | Tony Ngugi |
-| **Title** | Lead IT & Development Architect |
-| **Company** | Mavi Business Solutions (Security & Loss Prevention Kenya) |
-| **Location** | Nakuru, Kenya |
-| **Education** | Information Technology — Nakuru Town Campus (In Progress) |
-| **Email** | [tony.ngugi@mavicbizz.co.ke](mailto:tony.ngugi@mavicbizz.co.ke) |
-| **Website** | [mavicbizz.co.ke](https://mavicbizz.co.ke) |
-| **GitHub** | [github.com/tonyngugi997](https://github.com/tonyngugi997) |
-
-</div>
-
----
-```
-
----
-
-## What This Gives You
-
-| Element | Why |
-|---------|-----|
-| `# ⚡ TONY NGUGI ⚡` | Big, bold name — instantly recognizable |
-| `### Lead IT & Development Architect` | Clear job title (SEO gold) |
-| `**Mavi Business Solutions**` | Company name linked to your authority |
-| `📍 Nakuru, Kenya` | Local SEO — people search "IT lead Nakuru" |
-| `🎓 Information Technology — Nakuru Town Campus (In Progress)` | Honest, shows you're actively learning |
-| `📧 🌐 🐙` | Contact methods — email, website, GitHub |
-
----
-
-## Your Complete README (With This Section at the Top)
-
-Here's your **full README** — just copy and paste into `tonyngugi997/tonyngugi997/README.md`:
-
-```markdown
-<div align="center">
-
-# ⚡ TONY NGUGI ⚡
-
-### Lead IT & Development Architect @ Mavi Business Solutions
-
-**Mavi Business Solutions** | *Security & Loss Prevention Kenya*
-
-📍 **Nakuru, Kenya** &nbsp;|&nbsp; 🎓 **Information Technology** – *Nakuru Town Campus* (In Progress)
-
-📧 tony.ngugi@mavicbizz.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
+📧 tonyngugi@mavicbizz.co.ke &nbsp;|&nbsp; 🌐 [mavicbizz.co.ke](https://mavicbizz.co.ke) &nbsp;|&nbsp; 🐙 [github.com/tonyngugi997](https://github.com/tonyngugi997)
 
 ---
 
@@ -104,18 +35,17 @@ Here's your **full README** — just copy and paste into `tonyngugi997/tonyngugi
 
 ## 🎯 About Me
 
-I'm the **Lead IT & Development Architect** at **Mavi Business Solutions (Security & Loss Prevention Kenya)**. I handle all IT operations, cybersecurity, internal systems development, application architecture, and technical infrastructure.
+I'm the **Lead IT & Development Architect** at **Mavic Business Solutions LTD **. I handle all IT operations, cybersecurity, internal systems development, application architecture, and technical infrastructure.
 
-I build production systems. From my phone. No excuses.
 
 ```bash
 $ whoami
 > Tony Ngugi
 > Role: Lead IT & Development Architect
-> Employer: Mavi Business Solutions (Security & Loss Prevention Kenya)
+> Employer: Mavic Business Solutions LTD
 > Location: Nakuru, Kenya
 > Mission: Build systems that don't break. Write code that ships.
-> Philosophy: Skill > Hardware.
+> Philosophy: Why sleep when you can debug.
 ```
 
 ---
@@ -126,11 +56,16 @@ $ whoami
 |----------|------|
 | 🌐 **Company Website** | [mavicbizz.co.ke](https://mavicbizz.co.ke) |
 | 💼 **GitHub** | [github.com/tonyngugi997](https://github.com/tonyngugi997) |
-| 📧 **Email** | tony.ngugi@mavicbizz.co.ke |
+| 📧 **Email** | tonyngugi@mavicbizz.co.ke |
+| 📱 **WhatsApp** | [Message me on WhatsApp](https://wa.me/254798911817) |
+| 📞 **Phone** | +254 12385129 |
+| 🌍 **Portfolio** | [your-portfolio-url.com](https://gitau997.pythonanywgere.com) |
+
+
 
 ---
 
-## 🏢 What I Do at Mavi Business Solutions
+## 🏢 What I Do at Mavic Business Solutions LTD
 
 | Domain | Responsibility |
 |--------|----------------|
@@ -158,25 +93,14 @@ $ whoami
 | **[Weaponize](https://github.com/tonyngugi997/weaponize)** | Turn any Android phone into a professional IDE — Neovim + LSP + Termux, fully documented | Neovim Lua, LSP (pyright, tsserver, rust_analyzer), Termux, bash |
 | **[Professional Shell](https://github.com/tonyngugi997/shell)** | Cross-platform Python shell with job control (`jobs`, `fg`, `bg`, `kill`), redirection, pipelines, and aliases | Python, subprocess, signals, rich, psutil |
 
-### 🛒 E‑Commerce (Live, Functional)
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| *[Your Store 1 URL]* | Full e‑commerce platform with inventory, payments, and order management | 🔴 LIVE |
-| *[Your Store 2 URL]* | Multi‑vendor marketplace with real‑time analytics | 🔴 LIVE |
-| *[Your Store 3 URL]* | Custom e‑commerce solution with AI recommendations | 🔴 LIVE |
-
-> 📌 *Replace the placeholder links above with your actual live e‑commerce URLs*
-
-### 🔒 Internal Systems (Mavi Business Solutions)
+### 🔒 Internal Systems (Mavic Business Solutions LTD)
 
 | Project | Description |
 |---------|-------------|
 | Internal Dashboard | Real‑time security and operations dashboard |
 | Client Management System | CRM for security and loss prevention clients |
 | Incident Reporting Platform | Digital incident logging and tracking |
-| Automated Alert System | Real‑time threat detection and notification |
-
+| **Data Dashboard** | Live stats for clients to visualize losses saved |
 ### 📚 The Rest (23 More Repos)
 
 | Category | Count | Examples |
@@ -240,52 +164,26 @@ Git        ████████████████████   3.2K+ 
 
 ---
 
-## 🏆 Recent Activity
 
-- 🔀 Merged PR [#1](https://github.com/tonyngugi997/BotMa/pull/1) — refactor: remove fallback logic, AI only with placeholder
-- 🚀 Pushed 20+ commits to `BotMa` (April 13-14) — AI integration, multi-account support, security hardening
-- ⚡ Updated `Weaponize` — Neovim config improvements, better LSP support
-- 🐚 Enhanced `Professional Shell` — job control, redirection, rich dashboard
-
----
 
 ## 🎯 Current Focus
 
 | Priority | Project | Status |
 |----------|---------|--------|
 | 🔥 | BotMa — AI email categorization | Groq/Gemini integration complete, refining accuracy |
-| 🔥 | Internal dashboard at Mavi Business Solutions | Active development |
-| 📈 | E‑commerce platforms | Live, adding features |
+| 🔥 | Internal dashboard at Mavic Business Solutions LTD | Active development |
+|🔥|MaDDoG|low level server engeneering|Active development|
 | 🛠️ | Weaponize documentation | Phase 3 complete |
 
 ---
 
-## 📈 Weekly Activity
-
-```mermaid
-gantt
-    title Development Activity (Last 7 Days)
-    dateFormat HH:mm
-    section BotMa
-    AI Integration       :done,    a1, 06:00, 4h
-    Multi-Account Support :done,    a2, 10:00, 3h
-    Security Hardening   :active,  a3, 13:00, 2h
-    section Weaponize
-    Documentation        :done,    w1, 08:00, 2h
-    section Shell
-    Job Control          :done,    s1, 14:00, 3h
-    section E‑commerce
-    Payment Integration   :active,  e1, 09:00, 4h
-```
-
----
 
 ## 📫 Contact Me
 
 For IT consulting, systems development, or technical partnerships:
 
-- **Email:** tony.ngugi@mavicbizz.co.ke
-- **Company:** [Mavi Business Solutions](https://mavicbizz.co.ke) (Security & Loss Prevention Kenya)
+- **Email:** tonyngugi@mavicbizz.co.ke
+- **Company:** [Mavic Business Solutions LTD](https://mavicbizz.co.ke) (Security & Loss Control Kenya)
 - **Location:** Nakuru, Kenya
 
 ---
@@ -306,18 +204,3 @@ For IT consulting, systems development, or technical partnerships:
 
 ---
 
-## One More Thing — The Two-Way Link
-
-After you commit this README:
-
-1. **Add your website to GitHub profile settings** → Profile → "Website" field → `https://mavicbizz.co.ke`
-
-2. **Add a link from your company website to your GitHub** — even just a single line in the footer:
-
-```html
-<a href="https://github.com/tonyngugi997">Our IT Lead on GitHub →</a>
-```
-
-That's it. That's the SEO cheat code. No hidden divs. No tricks. Just two links pointing at each other.
-
-Want me to help you craft that footer link for your company site? Send me the HTML.
