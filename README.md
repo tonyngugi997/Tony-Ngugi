@@ -49,7 +49,7 @@ $ whoami
 | 📧 **Email** | tonyngugi@mavicbizz.co.ke |
 | 📱 **WhatsApp** | [Message me on WhatsApp](https://wa.me/254798911817) |
 | 📞 **Phone** | +254 12385129 |
-| 🌍 **Portfolio** | [your-portfolio-url.com](https://gitau997.pythonanywgere.com) |
+| 🌍 **Portfolio** | [checkout my website](https://gitau997.pythonanywhere.com) |
 
 
 
