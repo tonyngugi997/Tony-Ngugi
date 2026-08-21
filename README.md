@@ -3,7 +3,8 @@
 ---
 
 ## 🔗 Connect With Me
-
+***Tony Ngugi*
+**CEO, TRADESCENE TECH LIMITED**
 | Platform | Link |
 |----------|------|
 | 🌐 **Company Website** | [mavicbizz.co.ke](https://mavicbizz.co.ke) |
@@ -11,7 +12,7 @@
 | 📧 **Email** | tonyngugi@mavicbizz.co.ke |
 | 📱 **WhatsApp** | [Message me on WhatsApp](https://wa.me/254798911817) |
 | 📞 **Phone** | +254 12385129 |
-| 🌍 **Portfolio** | [checkout my website](https://gitau997.pythonanywhere.com) |
+| 🌍 **Portfolio** | [checkout my website](https://tony-ngugi.co.ke) |
 
 
 
