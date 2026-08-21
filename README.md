@@ -1,143 +1,179 @@
 
+---
+
+```markdown
+<div align="center">
+
+![TRADESCENE TECH LIMITED](https://img.shields.io/badge/TRADESCENE-TECH%20LIMITED-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)
+
+# TONY GITAU NGUGI
+
+**Chief Executive Officer & Founder**  
+**TRADESCENE TECH LIMITED**
+
+*Building enterprise-grade technology solutions for the African market.*
 
 ---
 
-## 🔗 Connect With Me
-**Tony Ngugi**
-**CEO, TRADESCENE TECH LIMITED**
-| Platform | Link |
-|----------|------|
-| 🌐 **Company Website** | [mavicbizz.co.ke](https://mavicbizz.co.ke) |
-| 💼 **GitHub** | [github.com/tonyngugi997](https://github.com/tonyngugi997) |
-| 📧 **Email** | tonyngugi@mavicbizz.co.ke |
-| 📱 **WhatsApp** | [Message me on WhatsApp](https://wa.me/254798911817) |
-| 📞 **Phone** | +254 12385129 |
-| 🌍 **Portfolio** | [checkout my website](https://tony-ngugi.co.ke) |
+[![Website](https://img.shields.io/badge/🌐_TRADESCENE.TECH-000000?style=flat-square&logo=vercel&logoColor=white)](https://tradescene.tech)
+[![Email](https://img.shields.io/badge/📧_tony@tradescene.tech-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:tony@tradescene.tech)
+[![GitHub](https://img.shields.io/badge/🐙_github.com/tonyngugi997-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tonyngugi997)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonyngugi)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254712385129)
 
-
+</div>
 
 ---
+## 📋 Executive Summary
 
-## 🏢 What I Do at Mavic Business Solutions LTD
+**Tony Ngugi** is a technology executive and systems architect with over 5 years of experience in artificial intelligence, enterprise infrastructure, and cybersecurity. He is the **Chief Executive Officer and Founder** of **TRADESCENE TECH LIMITED**, a Kenyan technology company focused on building intelligent systems, scalable infrastructure, and digital solutions for businesses and institutions across Africa.
 
-| Domain | Responsibility |
-|--------|----------------|
-| **Internal Systems** | Build and maintain all internal tools, dashboards, and automation |
-| **Application Development** | Design and develop business applications from concept to deployment |
-| **IT Infrastructure** | Maintain 99.97% uptime across all systems |
-| **Cybersecurity** | Handle security operations, threat monitoring, and incident response |
-| **Technical Services** | Deliver IT services to clients and internal teams |
+TRADESCENE TECH operates at the intersection of software engineering, AI, and systems design — delivering technology that is reliable, secure, and built to perform. The company works with clients across multiple sectors, providing custom solutions that solve real problems.
 
+Prior to founding TRADESCENE TECH, Tony served as a senior technical lead at Mavic Business Solutions LTD, where he architected internal systems, maintained 99.97% infrastructure uptime, and delivered technical services to enterprise clients across Kenya.
+
+Tony's approach is practical: build systems that work, keep them secure, and make them scale.
 ---
 
-## 📦 My Projects (29 Repositories — Here Are the Flagships)
+## 🏢 TRADESCENE TECH LIMITED
 
-### 🤖 AI & Automation
+TRADESCENE TECH is a Kenyan technology company engineering intelligent systems, resilient infrastructure, and digital solutions for businesses and institutions across Africa.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[BotMa](https://github.com/tonyngugi997/BotMa)** | Multi-agent email monitoring with AI classification (Groq/Gemini), autonomous actions, and continuous learning | Python, Flask, IMAP, Groq AI, Gemini AI |
-| **[SmartQue](https://github.com/tonyngugi997/SmartQue)** | Complete hospital queue management system with M-Pesa integration, OTP verification, and multi-role admin dashboard | Node.js, Express, SQLite, Flutter, M-Pesa API |
+**Incorporated in the Republic of Kenya** · Private Limited Company  
+**Industry:** Information Technology & Software Development  
+**Core Focus:** AI · Systems Architecture · Infrastructure Engineering · Cybersecurity
 
-### 🛠️ Dev Tools & Environments
+## 🎯 Strategic Focus Areas
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Weaponize](https://github.com/tonyngugi997/weaponize)** | Turn any Android phone into a professional IDE — Neovim + LSP + Termux, fully documented | Neovim Lua, LSP (pyright, tsserver, rust_analyzer), Termux, bash |
-| **[Professional Shell](https://github.com/tonyngugi997/shell)** | Cross-platform Python shell with job control (`jobs`, `fg`, `bg`, `kill`), redirection, pipelines, and aliases | Python, subprocess, signals, rich, psutil |
-
-### 🔒 Internal Systems (Mavic Business Solutions LTD)
-
-| Project | Description |
-|---------|-------------|
-| Internal Dashboard | Real‑time security and operations dashboard |
-| Client Management System | CRM for security and loss prevention clients |
-| Incident Reporting Platform | Digital incident logging and tracking |
-| **Data Dashboard** | Live stats for clients to visualize losses saved |
-### 📚 The Rest (23 More Repos)
-
-| Category | Count | Examples |
-|----------|-------|----------|
-| Python Libraries | 6 | Custom utilities, data processing, API wrappers |
-| Shell Scripts | 4 | Automation, backups, deployment scripts |
-| Web Applications | 5 | Internal tools, client portals, admin dashboards |
-| Learning & Experiments | 8 | Algorithms, data structures, POCs |
-
-> *Full list available at [github.com/tonyngugi997?tab=repositories](https://github.com/tonyngugi997?tab=repositories)*
-
+| Domain | Description |
+|--------|-------------|
+| **Artificial Intelligence** | Development of autonomous agents, intelligent automation, and AI-driven decision systems |
+| **B2B SaaS Platforms** | Design and development of scalable, multi-tenant software solutions for business clients |
+| **Systems Architecture** | Engineering resilient, high-performance infrastructure for mission-critical environments |
+| **Cybersecurity** | Security operations, threat intelligence, vulnerability assessment, and incident response |
+| **Technical Consulting** | Strategic advisory, technology roadmaps, and implementation for enterprise clients |
 ---
 
-## 🧠 Technical Arsenal
+## 🛠️ Technical Competencies
 
-### Languages
+### Core Languages
 
-```
-Python     ████████████████████░  95%  (5+ years)
-JavaScript ████████████████░░░░░  75%  (4+ years)
-Rust       █████████████░░░░░░░░  65%  (3+ years)
-Go         ███████████░░░░░░░░░░  55%  (3+ years)
-C          ███████████░░░░░░░░░░  55%  (3+ years)
-SQL        ██████████████░░░░░░░  70%  (5+ years)
-Lua        ████████████░░░░░░░░░  60%  (3+ years)
-Bash       ██████████░░░░░░░░░░░  50%  (4+ years)
-```
+| Language | Proficiency | Experience |
+|----------|-------------|------------|
+| Python | **95%** | 5+ years |
+| JavaScript/TypeScript | **75%** | 4+ years |
+| Rust | **65%** | 3+ years |
+| Go | **55%** | 3+ years |
+| C | **55%** | 3+ years |
+| SQL | **70%** | 5+ years |
+| Lua | **60%** | 3+ years |
+| Bash | **50%** | 4+ years |
 
-### Frameworks & Libraries
+### Frameworks & Platforms
 
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | Flask, Express.js, FastAPI, Node.js |
-| **Frontend** | React, Flutter, HTML/CSS/JS |
-| **ML/AI** | TensorFlow, Groq API, Gemini API, OpenCV |
-| **Database** | SQLite, PostgreSQL, MySQL |
-| **DevOps** | Docker, Railway, PythonAnywhere, Git |
-
-### Tools & Environments
-
-```
-Neovim     ████████████████████   Weaponized (LSP + Treesitter + Telescope)
-Termux     ████████████████████   Full Android dev environment
-Linux      ████████████████████   Daily driver
-Git        ████████████████████   3.2K+ commits
-```
+| **Backend** | Flask, FastAPI, Express.js, Node.js, Actix-web |
+| **Frontend** | React, Flutter, HTML5/CSS3 |
+| **AI/ML** | Groq API, Gemini API, TensorFlow, OpenCV |
+| **Database** | PostgreSQL, MySQL, SQLite |
+| **DevOps** | Docker, Railway, Git, CI/CD |
+| **Systems** | Neovim (LSP/Treesitter), Termux, Linux |
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Key Projects
+
+### 🤖 BotMa — AI-Powered Email Automation
+
+**Description:** Multi-agent email monitoring and classification system leveraging Groq and Gemini AI. Enables autonomous action execution and continuous learning capabilities.
+
+**Tech Stack:** Python, Flask, IMAP, Groq AI, Gemini AI
+
+**Status:** Active development — Integration complete, accuracy refinement underway.
+
+---
+
+### 🏥 SmartQue — Healthcare Queue Management
+
+**Description:** Comprehensive hospital queue management solution featuring M-Pesa integration, OTP verification, and a multi-role administrative dashboard.
+
+**Tech Stack:** Node.js, Express.js, SQLite, Flutter, M-Pesa API
+
+**Status:** Production-ready.
+
+---
+
+### ⚔️ Weaponize — Mobile Development Environment
+
+**Description:** Turn any Android device into a professional integrated development environment (IDE) using Neovim, Language Server Protocol (LSP), and Termux.
+
+**Tech Stack:** Neovim Lua, LSP (pyright, tsserver, rust_analyzer), Termux, bash
+
+**Status:** Phase 3 complete — Fully documented.
+
+---
+
+### 🐚 Professional Shell — Cross-Platform Command Line
+
+**Description:** Cross-platform Python shell with full job control, input/output redirection, pipelines, and aliases.
+
+**Tech Stack:** Python, subprocess, signals, rich, psutil
+
+**Status:** Stable release.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyngugi997&show_icons=true&theme=radical&hide_title=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonyngugi997&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/tonyngugi997)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyngugi997&layout=compact&theme=radical&hide=html,css)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyngugi997&layout=compact&theme=dark&hide=html,css)](https://github.com/tonyngugi997)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonyngugi997&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonyngugi997&theme=dark)](https://github.com/tonyngugi997)
 
 </div>
 
 ---
 
+## 🏆 Professional Philosophy
 
-
-## 🎯 Current Focus
-
-| Priority | Project | Status |
-|----------|---------|--------|
-| 🔥 | BotMa — AI email categorization | Groq/Gemini integration complete, refining accuracy |
-| 🔥 | Internal dashboard at Mavic Business Solutions LTD | Active development |
-|🔥|MaDDoG|low level server engeneering|Active development|
-| 🛠️ | Weaponize documentation | Phase 3 complete |
+> *"Technology is not about code. It is about solving problems, creating value, and building systems that serve people. At TRADESCENE TECH, we engineer solutions that make a difference."*
 
 ---
 
+## 📫 Connect With Me
 
-## 📫 Contact Me
+**Tony Ngugi**  
+Chief Executive Officer & Founder  
+TRADESCENE TECH LIMITED
 
-For IT consulting, systems development, or technical partnerships:
+| Platform | Contact |
+|----------|---------|
+| **Company** | TRADESCENE TECH LIMITED — *Incorporated in Kenya* |
+| **Website** | [tradescene.tech](https://tradescene.tech) |
+| **Email** | tony@tradescene.tech |
+| **GitHub** | [github.com/tonyngugi997](https://github.com/tonyngugi997) |
+| **LinkedIn** | [linkedin.com/in/tonyngugi](https://linkedin.com/in/tonyngugi) |
+| **WhatsApp** | [+254 712 385 129](https://wa.me/254712385129) |
+| **Phone** | +254 712 385 129 |
+| **Location** | Nakuru, Kenya |
 
-- **Email:** tonyngugi@mavicbizz.co.ke
-- **Company:** [Mavic Business Solutions LTD](https://mavicbizz.co.ke) (Security & Loss Control Kenya)
-- **Location:** Nakuru, Kenya
+---
+
+## 📄 Corporate Information
+
+| Detail | Information |
+|--------|-------------|
+| **Legal Name** | TRADESCENE TECH LIMITED |
+| **Registration No.** | PVT-PQ1E6AL5 |
+| **Jurisdiction** | Republic of Kenya |
+| **Registered Office** | Nakuru, Kenya |
+| **Directors** | Tony Gitau Ngugi, Brenda Nyambura Kangacha |
+| **Share Capital** | KES 3,000 (1,000 shares) |
+| **Founder Shareholding** | 51% (Tony Ngugi) / 49% (Brenda Kangacha) |
 
 ---
 
@@ -145,12 +181,12 @@ For IT consulting, systems development, or technical partnerships:
 
 ```
 ═══════════════════════════════════════════════════════════════
-  "A real developer isn't defined by their hardware.
-   They're defined by what they can build with nothing."
+  TRADESCENE TECH LIMITED — Built for the Future. 
+  Engineered for Scale. 
 ═══════════════════════════════════════════════════════════════
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,100:6C63FF&height=100&section=footer)
+*© 2026 TRADESCENE TECH LIMITED. All rights reserved.*
 
 </div>
 ```
