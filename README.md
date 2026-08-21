@@ -3,7 +3,7 @@
 ---
 
 ## 🔗 Connect With Me
-***Tony Ngugi*
+***Tony Ngugi**
 **CEO, TRADESCENE TECH LIMITED**
 | Platform | Link |
 |----------|------|
